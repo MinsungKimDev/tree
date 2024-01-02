@@ -9,7 +9,7 @@
 ```
 - tree.js
 - tree.py
-- other languees to be added
+- other languages to be added
 
 ## How it works
 1. Set value "line". (Should be odd to look good.)
