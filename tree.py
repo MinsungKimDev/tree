@@ -1,4 +1,5 @@
-line = 5
+print("please enter the odd: ", end="")
+line = int(input())
 for i in range(0,line):
     for j in range(line-1-i, 0, -1):
         print(" ", end="")
@@ -9,4 +10,3 @@ for i in range(0,line):
         for j in range(line-2, 0, -1):
             print(" ", end="")    
         print("|_|")
-
